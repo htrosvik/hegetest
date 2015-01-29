@@ -4,4 +4,4 @@ en lokal-endring
 en web-endring
 web-change
 local-old-change
-
+local-new-change
