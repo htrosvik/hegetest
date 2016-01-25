@@ -2,4 +2,8 @@ blappetiblapp
 og litt forandring
 en lokal-endring
 en web-endring
+<<<<<<< HEAD
 local-change
+=======
+web-change
+>>>>>>> 58891023fae6461626f4bea39734a91bda1d3380
